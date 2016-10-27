@@ -7,7 +7,9 @@ h1 {
 	}
 #block {
 	position: absolute;
-	margin: 100px 300px 0px 300px;
+	left-margin: 50%;
+	right-margin: 50%;
+	display: flex;
 	}
 
 body {
