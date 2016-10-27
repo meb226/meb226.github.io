@@ -6,6 +6,7 @@ h1 {
 	}
 
 #block {
+	position: absolute;
 	top: 0.2em;
 	left: 0.5em;
 	right: 0.5em;
