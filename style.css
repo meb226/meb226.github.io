@@ -11,8 +11,8 @@ h1 {
 #bundestag {
 	position: relative;
 	background: url(https://www.goodfreephotos.com/albums/germany/berlin/bundestag-in-berlin-germany.jpg);
-	height: 500px;
-	width: 1000px;
+	height: auto;
+	width: auto;
 	background-size: contain;
 	margin: 200px 0 0 0;
 body {
