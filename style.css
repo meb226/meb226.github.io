@@ -5,7 +5,7 @@ h1 {
 	justify-content: center;
 	}
 #block {
-	position: absolute;
+	position: relative;
 	top-margin: 100px;
 	left-margin: 50%;
 	right-margin: 50%;
