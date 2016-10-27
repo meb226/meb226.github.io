@@ -6,9 +6,8 @@ h1 {
 	}
 #block {
 	position: relative;
-	top-margin: 100px;
-	left-margin: 50%;
-	right-margin: 50%;
+	vertical-align: middle;
+	horizontal-align: middle;
 	display: flex;
 	}
 
