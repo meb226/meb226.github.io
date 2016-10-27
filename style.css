@@ -1,6 +1,8 @@
 h1 {
 	color: #FFFFFF;
 	font-family: Arial;
+	align-items: center;
+	justify-content: center;
 	}
 
 body {
