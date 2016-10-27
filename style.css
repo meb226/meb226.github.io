@@ -11,4 +11,5 @@ h1 {
 
 body {
 	background: url(http://www.wallpapers13.com/wp-content/uploads/2016/02/Wallpaper-Hd-Berlin-At-Night-Germany-1800x2880-915x515.jpg);
-	}
+	background-size: cover;	
+}
