@@ -1,15 +1,11 @@
 h1 {
+	position: relative;
 	color: #FFFFFF;
 	font-family: Arial;
 	font-size: 48px;
 	justify-content: center;
 	}
-#block {
-	position: relative;
-	vertical-align: middle;
-	horizontal-align: middle;
-	display: flex;
-	}
+
 
 body {
 	background-color: red;
