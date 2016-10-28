@@ -3,8 +3,10 @@ h1 {
 	color: #FFFFFF;
 	font-family: 'Roboto', sans-serif;
 	font-size: 48px;
-	text-align: center;
 	}
+#block {
+	text-align: center;
+}
 body {
 	background: url(https://www.goodfreephotos.com/albums/germany/berlin/bundestag-in-berlin-germany.jpg);
 	background-size: cover;
