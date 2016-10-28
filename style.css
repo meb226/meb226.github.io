@@ -7,6 +7,6 @@ h1 {
 	}
 body {
 	background: url(https://www.goodfreephotos.com/albums/germany/berlin/bundestag-in-berlin-germany.jpg);
-	background-size: contain;
+	background-size: cover;
 	display: flex;
 }
