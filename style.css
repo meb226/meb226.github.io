@@ -6,9 +6,10 @@ h1 {
 	}
 #block {
 	text-align: center;
+.container {
+	max-height: 500px;
+	max-width: 750px;
 }
 body {
-	background: url(https://www.goodfreephotos.com/albums/germany/berlin/bundestag-in-berlin-germany.jpg);
-	background-size: cover;
-	display: flex;
+	background-color: blue;
 }
