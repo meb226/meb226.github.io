@@ -1,5 +1,5 @@
 $(document).ready(function {
   $('#image').click(function {
-    $(this).fadeOut(slow);
+    $(this).fadeTo('slow',0);
   })
 })
